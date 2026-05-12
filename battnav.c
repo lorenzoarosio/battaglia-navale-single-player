@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <windows.h>
-#include "lib_arosio.h"
-#include "lib_battnav_arosio.h"
+#include "lib.h"
+#include "lib_battnav.h"
 
 //BATTAGLIA NAVALE
 

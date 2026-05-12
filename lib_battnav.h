@@ -1,12 +1,12 @@
-#ifndef LIB_BATTNAV_AROSIO_H
-#define LIB_BATTNAV_AROSIO_H
+#ifndef LIB_BATTNAV_H
+#define LIB_BATTNAV_H
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
 #include <windows.h>
-#include "lib_arosio.h"
+#include "lib.h"
 
 //colori stili
 #define NERO "\033[30m"

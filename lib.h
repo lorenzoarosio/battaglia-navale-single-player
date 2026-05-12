@@ -1,5 +1,5 @@
-#ifndef LIB_AROSIO_H
-#define LIB_AROSIO_H
+#ifndef LIB_H
+#define LIB_H
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
