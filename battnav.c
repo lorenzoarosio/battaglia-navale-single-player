@@ -85,11 +85,14 @@ int main ()
 
     //POSIZIONAMENTO NAVI QUADRATE COMPUTER
     pos_nav_q_pc(n,mare_pc,n_nav,num_nav_q);
-    //stampa_mare(n,mare_pc);
+    
     
     //POSIZIONAMENTO NAVI RETTANGOLARI COMPUTER
     pos_nav_r_pc(n,mare_pc,r_nav,c_nav,num_nav_r);
-    stampa_mare(n,mare_pc);
+
+    
+    //UTILIZZA RIGA SOTTOSTANTE PER VISUALIZZARE MARE PC
+    //stampa_mare(n,mare_pc);
 
     
     int condizione=0;
